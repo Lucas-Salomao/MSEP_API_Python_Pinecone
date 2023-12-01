@@ -8,7 +8,7 @@
     "deploymentSlot": "Production",
     "siteConfig": {
       "appSettings": {
-        "FLASK_APP": "main.py"
+        "FLASK_APP": "app.py"
       }
     }
   }
